@@ -20,6 +20,7 @@
     "url": "https://github.com/mrosseel/parse-iso-file/issues"
   },
   "dependencies": {
-    "wget": "0.0.1"
+    "wget": "0.0.1",
+    "csv": "~0.3.6"
   }
 }
